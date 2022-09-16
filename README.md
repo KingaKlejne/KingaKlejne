@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 ![Kingas's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingaKlejne&theme=dark&show_icons=true)
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinga-klejne/)
+
+
