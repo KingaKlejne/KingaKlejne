@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 -->
 
 ![Kingas's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingaKlejne&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingaKlejne&layout=compact)](https://github.com/KingaKlejne/github-readme-stats)
