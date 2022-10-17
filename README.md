@@ -9,7 +9,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-KingaKlejne&color=blue)
 -->
 
-![Kingas's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingaKlejne&theme=dark&show_icons=true)
+![Kingas's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingaKlejne&theme=prussian&show_icons=true)
+
 
 
 
