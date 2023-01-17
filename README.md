@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Kinga
 
-- 🔭 I’m currently working as Data Analyst
+- 🔭 I’m currently working as a Data Analyst
 - 👩‍💻 I love coding and learning new things
-- 🦸‍♀️ I would like to become Python Developer
+- 🦸‍♀️ I would like to become a Python Developer
 - 📫 How to reach me: kingaklejne@gmail.com or [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinga-klejne/) 
 
 <!--
